@@ -14,7 +14,7 @@ public class AddingStrings {
 	}
 	
 	public static void main(String[] args) {
-		AddingStrings ad = new AddingStrings("Java", "Programming"); 
+		AddingStrings ad = new AddingStrings("Java", "Program"); 
 		ad.display();
 		//System.out.println(ad.name1 + "" + ad.name2);
 		
